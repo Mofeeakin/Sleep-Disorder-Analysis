@@ -5,6 +5,8 @@ Sleep disorders are becoming increasingly prevalent, impacting millions of peopl
 
 The **Sleep Disorder Analysis Dashboard** visualizes these insights, helping to identify trends and patterns in sleep behavior. The goal is to offer actionable insights for individuals, healthcare professionals, and researchers looking to improve sleep health.
 
+![Sleep Disorder Dashboard.png](https://github.com/Mofeeakin/Sleep-Disorder-Analysis/blob/fd63ce5cea927d647a3be8d597a1217b8823f733/Sleep%20Disorder%20Dashboard.png)
+
 ## Key Metrics
 This dashboard tracks the following key metrics:
 - **Total Patients**: 374  
